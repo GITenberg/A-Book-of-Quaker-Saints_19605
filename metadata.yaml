@@ -1,0 +1,37 @@
+_repo: A-Book-of-Quaker-Saints_19605
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, Frederic Cayley
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '37665'
+    url: http://www.gutenberg.org/2009/agents/37665
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hodgkin, L. V. (Lucy Violet)
+    aliases:
+    - Holdsworth, L. V. (Lucy Violet)
+    - Holdsworth, John, Mrs.
+    - Hodgkin, Lucy Violet
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '8779'
+    url: http://www.gutenberg.org/2009/agents/8779
+description: ''
+gutenberg_issued: '2006-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Society of Friends'
+- !lcc 'BX'
+title: A Book of Quaker Saints
+url: http://www.gutenberg.org/ebooks/19605
