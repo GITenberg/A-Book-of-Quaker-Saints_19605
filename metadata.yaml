@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '8779'
     url: http://www.gutenberg.org/2009/agents/8779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19605#A-Book-of-Quaker-Saints
 gutenberg_issued: '2006-10-22'
 gutenberg_type: Text
 identifiers:
